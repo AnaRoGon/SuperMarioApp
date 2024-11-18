@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Este es el layout para el menu contextual con el icono de información  -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Icono de información -->
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/baseline_info_24"
+        android:title="@string/about"
+        app:showAsAction="ifRoom" />
+</menu>

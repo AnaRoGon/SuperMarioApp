@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Este es el layout que contiene el fragment con los detalles del personaje -->
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bluebackground">
+
+    <!-- ImageView que muestra una imagen del personaje elegido -->
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="300dp"
+        android:layout_height="390dp"
+        app:layout_constraintBottom_toTopOf="@+id/cardView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:src="@tools:sample/avatars" />
+    <!-- CardView que encapsula la información detallada del personaje -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:cardBackgroundColor="@color/backgroundColor"
+        app:contentPadding="10dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_goneMarginTop="50dp">
+
+        <!-- Contenedor para los TextViews en un LinearLayout -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/backgroundColor"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <!-- TextView para el Nombre -->
+            <TextView
+                android:id="@+id/textViewName"
+                style="@style/TextViewStyleTittle2"
+                android:layout_width="345dp"
+                android:layout_height="28dp"
+                android:layout_marginTop="8dp"
+                android:gravity="center_horizontal"
+                android:text="@string/Name_details" />
+
+            <!-- TextView para la Descripción -->
+            <TextView
+                android:id="@+id/textViewDescription"
+                style="@style/TextViewStyleContent"
+                android:layout_width="345dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="8dp"
+                android:gravity="center_horizontal"
+                android:text="@string/description_details" />
+
+            <!-- TextView para Habilidades -->
+            <TextView
+                android:id="@+id/textViewSkills"
+                style="@style/TextViewStyleTittle2"
+                android:layout_width="345dp"
+                android:layout_height="28dp"
+                android:layout_marginTop="8dp"
+                android:gravity="center_horizontal"
+                android:text="@string/skills_details" />
+
+            <!-- TextView para la Description de Habilidades -->
+            <TextView
+                android:id="@+id/textViewDescriptionSkills"
+                style="@style/TextViewStyleContent"
+                android:layout_width="345dp"
+                android:layout_height="100dp"
+                android:layout_marginTop="8dp"
+                android:gravity="center_horizontal"
+                android:text="@string/description_skills_details" />
+
+        </LinearLayout>
+
+    </androidx.cardview.widget.CardView>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

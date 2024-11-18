@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Pmdm02" parent="Theme.Material3.DayNight">
+        <!-- El pantone de la aplicación para el modo día está definido en values\colors -->
+
+        <!-- Configuración personalizada de la SplashScreen-->
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/star</item>
+        <item name="android:windowSplashScreenAnimationDuration">2000</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/colorPrimary</item>
+        <item name="android:windowSplashScreenBackground">@color/colorPrimary</item>
+    </style>
+
+    <style name="Theme.Pmdm02" parent="Base.Theme.Pmdm02" />
+</resources>

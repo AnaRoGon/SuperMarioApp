@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Textos generales de la app -->
+    <string name="app_name">pmdm02</string>
+    <string name="open_drawer">Open Menu</string>
+    <string name="close_drawer">Close Menu</string>
+    <string name="Name_details">Name</string>
+    <string name="welcome_message">Welcome to the world of Mario</string>
+    <string name="about_app">About the application</string>
+    <string name="app_info">Application developed by Ana Rodríguez González. Version 1.0.</string>
+    <string name="choose_language">Choose a language</string>
+    <string name="language_en">English</string>
+    <string name="language_es">Spanish</string>
+    <string name="description_details">Description</string>
+    <string name="skills_details">Skills</string>
+    <string name="description_skills_details">Description of skills</string>
+    <string name="message_info_about_character">"You have selected the character "</string>
+    <string name="character_details">Character details</string>
+    <string name="about">About...</string>
+    <string name="home">Home</string>
+    <string name="settings">Settings</string>
+    <string name="settings_title">Settings</string>
+
+
+    <!-- Nombres de los personajes -->
+    <string name="mario">Mario</string>
+    <string name="luigi">Luigi</string>
+    <string name="princess_peach">Princess Peach</string>
+    <string name="bowser">Bowser</string>
+    <string name="daisy">Daisy</string>
+    <string name="toad">Toad</string>
+    <string name="yoshi">Yoshi</string>
+    <string name="wario">Wario</string>
+    <string name="waluigi">Waluigi</string>
+    <string name="rosalina">Rosalina</string>
+    <string name="bowser_jr">Bowser Jr.</string>
+    <string name="boo">Boo</string>
+    <string name="donkey_kong">Donkey Kong</string>
+    <string name="diddy_kong">Diddy Kong</string>
+    <string name="character_list">Character List</string>
+
+    <!-- Character descriptions -->
+    <string name="mario_description">The hero of the Mushroom Kingdom. He is a brave and loyal plumber who fights Bowser to rescue Princess Peach.</string>
+    <string name="luigi_description">Mario\'s younger brother, known for being a bit timid but very skilled.</string>
+    <string name="princess_peach_description">Princess of the Mushroom Kingdom, often captured by Bowser, though she also joins adventures and helps Mario.</string>
+    <string name="bowser_description">The King of the Koopas and Mario\'s arch-nemesis. He constantly tries to kidnap Princess Peach to rule the Mushroom Kingdom.</string>
+    <string name="daisy_description">Princess of Sarasaland and a good friend of Peach. She is energetic and competitive.</string>
+    <string name="toad_description">A loyal servant of the Mushroom Kingdom and a friend of Mario. He often provides help and information to Mario and his friends.</string>
+    <string name="yoshi_description">A friendly dinosaur who assists Mario in his adventures. He is known for his long tongue and his ability to lay eggs.</string>
+    <string name="wario_description">Mario\'s rival, known for being greedy and somewhat selfish. He has great strength and loves competing in sports and gambling games.</string>
+    <string name="waluigi_description">Wario\'s companion and friend. He is Luigi\'s eternal rival and is known for his sarcastic personality.</string>
+    <string name="rosalina_description">The guardian of the Lumas and the Comet Observatory. She has great knowledge of the universe and magical abilities.</string>
+    <string name="bowser_jr_description">Bowser\'s son. He often tries to impress his father by causing trouble and fighting Mario.</string>
+    <string name="boo_description">A mischievous ghost that appears in many of Bowser\'s castles. It usually attacks when the player is not looking.</string>
+    <string name="donkey_kong_description">A powerful gorilla and the leader of the Kongs. Originally an enemy of Mario, he is now one of his allies.</string>
+    <string name="diddy_kong_description">A close friend and adventure companion of Donkey Kong. He is agile and has many acrobatic abilities.</string>
+
+    <!-- Character skills -->
+    <string name="mario_skills">Super jump, fireball throwing, Super Mario transformation, flying with the cape</string>
+    <string name="luigi_skills">Super jump, ghost-catching skills with the Poltergust vacuum, Super Luigi transformation</string>
+    <string name="princess_peach_skills">Floating in the air, heart-throwing, magical abilities</string>
+    <string name="bowser_skills">Fire throwing, superhuman strength, creating minions, transformation power</string>
+    <string name="daisy_skills">Flower throwing, athletic abilities, speed</string>
+    <string name="toad_skills">Speed, great endurance, knowledge of the Mushroom Kingdom</string>
+    <string name="yoshi_skills">Long tongue to catch enemies, egg throwing, super jump</string>
+    <string name="wario_skills">Superhuman strength, motorcycle skills, bomb throwing, super punch</string>
+    <string name="waluigi_skills">Sports skills, bomb throwing, athletic abilities</string>
+    <string name="rosalina_skills">Cosmic powers, levitation, telekinesis, controlling Lumas</string>
+    <string name="bowser_jr_skills">Fire throwing, using a magic brush, combat skills</string>
+    <string name="boo_skills">Invisibility, passing through walls, scaring enemies</string>
+    <string name="donkey_kong_skills">Super strength, barrel throwing, great endurance, powerful jumps</string>
+    <string name="diddy_kong_skills">Jetpack skills, peanut throwing, agility and acrobatics</string>
+
+
+</resources>

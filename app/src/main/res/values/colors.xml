@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Pantone de color para el modo día -->
+    <color name="colorPrimary">#0065b3</color>
+    <color name="colorPrimaryDark">#013862</color>
+    <color name="colorAccent">#f5b201</color>
+    <color name="toolbarTextColor">#FFFFFF</color>
+    <color name="textColor">#000000</color>
+    <color name="backgroundColor">#FFFFFF</color>
+</resources>

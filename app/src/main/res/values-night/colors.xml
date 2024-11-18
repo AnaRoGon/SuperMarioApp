@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Pantone de color para el modo noche -->
+    <color name="colorPrimary">#A63036</color>
+    <color name="colorPrimaryDark">#7A0F32</color>
+    <color name="colorAccent">#4AB359</color>
+    <color name="toolbarTextColor">#FFFFFF</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="backgroundColor">#0C1B2A</color>
+</resources>

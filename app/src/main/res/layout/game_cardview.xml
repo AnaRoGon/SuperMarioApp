@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Este es el layout que organiza cómo se verá cada elemento del RecyclerView -->
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Sección de datos que será vinculada al layout mediante Data Binding -->
+    <data>
+
+        <variable
+            name="character"
+            type="com.example.rodriguezgonzalez.pmdm02.GameData" />
+    </data>
+
+    <!-- CardView que encapsula todo el contenido de la vista -->
+    <androidx.cardview.widget.CardView
+        android:id="@+id/gameCardView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/backgroundColor">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/backgroundColor"
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+            <!-- ImageView que muestra una imagen del personaje -->
+            <ImageView
+                android:id="@+id/image"
+                android:layout_width="70dp"
+                android:layout_height="100dp"
+                android:layout_marginEnd="10dp"
+                android:padding="5dp"
+                android:src="@drawable/ic_launcher_background" />
+
+            <LinearLayout
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="15dp">
+                <!-- TextView que muestra el nombre del personaje -->
+                <TextView
+                    android:id="@+id/name"
+                    style="@style/TextViewStyleTittle1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/Name_details" />
+                <!-- TextView que muestra la descripción del personaje -->
+                <TextView
+                    android:id="@+id/characterDescription"
+                    style="@style/TextViewStyleContent"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:text="@string/description_details" />
+
+
+            </LinearLayout>
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</layout>

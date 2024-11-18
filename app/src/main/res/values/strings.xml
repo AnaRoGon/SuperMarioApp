@@ -1,0 +1,75 @@
+<resources>
+
+    <!-- Textos generales de la app -->
+    <string name="app_name">pmdm02</string>
+    <string name="open_drawer">Abrir menú</string>
+    <string name="close_drawer">Cerrar menú</string>
+    <string name="Name_details">Nombre</string>
+    <string name="welcome_message">Bienvenidos al mundo de Mario</string>
+    <string name="about_app">Acerca de la aplicación</string>
+    <string name="app_info">Aplicación desarrollada por Ana Rodríguez González. Versión 1.0.</string>
+    <string name="choose_language">Elige un idioma</string>
+    <string name="language_en">Inglés</string>
+    <string name="language_es">Español</string>
+    <string name="description_details">Descripción</string>
+    <string name="skills_details">Habilidades</string>
+    <string name="description_skills_details">Descripción de habilidades</string>
+    <string name="img" translatable="false">img</string>
+    <string name="message_info_about_character">"Se ha seleccionado el personaje "</string>
+    <string name="character_details">Detalles del personaje</string>
+    <string name="about">Acerca de...</string>
+    <string name="home">Inicio</string>
+    <string name="settings">Ajustes</string>
+
+
+    <!-- Nombres de los personajes -->
+    <string name="mario">Mario</string>
+    <string name="luigi">Luigi</string>
+    <string name="princess_peach">Princesa Peach</string>
+    <string name="bowser">Bowser</string>
+    <string name="daisy">Daisy</string>
+    <string name="toad">Toad</string>
+    <string name="yoshi">Yoshi</string>
+    <string name="wario">Wario</string>
+    <string name="waluigi">Waluigi</string>
+    <string name="rosalina">Rosalina</string>
+    <string name="bowser_jr">Bowser Jr.</string>
+    <string name="boo">Boo</string>
+    <string name="donkey_kong">Donkey Kong</string>
+    <string name="diddy_kong">Diddy Kong</string>
+    <string name="character_list">Lista de personajes</string>
+
+    <!-- Descripciones de los personajes -->
+    <string name="mario_description">El héroe del Reino Champiñón. Es un fontanero valiente y leal que lucha contra Bowser para rescatar a la princesa Peach.</string>
+    <string name="luigi_description">Hermano menor de Mario, conocido por ser un poco miedoso pero muy habilidoso.</string>
+    <string name="princess_peach_description">Princesa del Reino Champiñón, a menudo es capturada por Bowser, aunque también participa en aventuras y ayuda a Mario.</string>
+    <string name="bowser_description">El rey de los Koopas y archienemigo de Mario. Siempre intenta secuestrar a la princesa Peach para gobernar el Reino Champiñón.</string>
+    <string name="daisy_description">Princesa del Reino Sarasaland y buena amiga de Peach. Es enérgica y competitiva.</string>
+    <string name="toad_description">Un fiel servidor del Reino Champiñón y amigo de Mario. A menudo proporciona ayuda e información a Mario y sus amigos.</string>
+    <string name="yoshi_description">Un dinosaurio amistoso que ayuda a Mario en sus aventuras. Es conocido por su lengua larga y su habilidad para poner huevos.</string>
+    <string name="wario_description">Rival de Mario, conocido por ser codicioso y algo egoísta. Tiene gran fuerza y le encanta competir en deportes y juegos de azar.</string>
+    <string name="waluigi_description">Compañero y amigo de Wario. Es el eterno rival de Luigi y es conocido por su personalidad sarcástica.</string>
+    <string name="rosalina_description">La guardiana de los Lumas y del Comet Observatory. Tiene un gran conocimiento del universo y habilidades mágicas.</string>
+    <string name="bowser_jr_description">El hijo de Bowser. A menudo intenta impresionar a su padre causando problemas y luchando contra Mario.</string>
+    <string name="boo_description">Un fantasma travieso que aparece en muchos de los castillos de Bowser. Suele atacar cuando el jugador no está mirando.</string>
+    <string name="donkey_kong_description">Un gorila poderoso y el líder de los Kongs. Originalmente fue un enemigo de Mario, pero ahora es uno de sus aliados.</string>
+    <string name="diddy_kong_description">Un amigo cercano y compañero de aventuras de Donkey Kong. Es ágil y tiene muchas habilidades acrobáticas.</string>
+
+    <!-- Habilidades de los personajes -->
+    <string name="mario_skills">Super salto, lanza bolas de fuego, transformación en Super Mario, vuelo con la capa</string>
+    <string name="luigi_skills">Super salto, habilidades de atrapar fantasmas con la aspiradora Poltergust, transformación en Super Luigi</string>
+    <string name="princess_peach_skills">Flotar en el aire, lanzar corazones, habilidades mágicas</string>
+    <string name="bowser_skills">Lanzar fuego, fuerza sobrehumana, crear secuaces, poder de transformación</string>
+    <string name="daisy_skills">Lanzar flores, habilidades atléticas, velocidad</string>
+    <string name="toad_skills">Velocidad, gran resistencia, conocimiento del Reino Champiñón</string>
+    <string name="yoshi_skills">Larga lengua para atrapar enemigos, lanzar huevos, super salto</string>
+    <string name="wario_skills">Fuerza sobrehumana, habilidades en motocicleta, lanzar bombas, super golpe</string>
+    <string name="waluigi_skills">Habilidad en deportes, lanzar bombas, habilidades atléticas</string>
+    <string name="rosalina_skills">Poderes cósmicos, levitación, telequinesis, controlar Lumas</string>
+    <string name="bowser_jr_skills">Lanzar fuego, usar un pincel mágico, habilidades de combate</string>
+    <string name="boo_skills">Invisibilidad, atravesar paredes, asustar a los enemigos</string>
+    <string name="donkey_kong_skills">Super fuerza, lanzar barriles, gran resistencia, saltos poderosos</string>
+    <string name="diddy_kong_skills">Habilidad con jetpack, lanzar cacahuates, agilidad y acrobacias</string>
+    <string name="settings_title">Ajustes</string>
+
+</resources>

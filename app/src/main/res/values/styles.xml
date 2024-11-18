@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Estilo 1 para títulos-->
+    <style name="TextViewStyleTittle1">
+        <item name="android:fontFamily">@font/supermario256</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+    <!-- Estilo 2 para el títulos-->
+    <style name="TextViewStyleTittle2">
+        <item name="android:fontFamily">@font/supermario256</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">32dp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+    </style>
+
+    <!-- Estilo para el contenido de los textos -->
+    <style name="TextViewStyleContent">
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textColor">@color/textColor</item>
+    </style>
+
+</resources>

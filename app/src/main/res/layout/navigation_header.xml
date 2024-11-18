@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Este es el layout para la cabecera del Menú Lateral -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/header"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical"
+    android:paddingTop="20dp">
+
+    <!-- TextView que muestra el nombre de la aplicación -->
+    <TextView
+        android:id="@+id/header_subtitle"
+        style="@style/TextViewStyleTittle2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/app_name" />
+
+    <!-- ImageView que muestra la imagen de la cabecera -->
+    <ImageView
+        android:id="@+id/header_image"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:contentDescription="@string/img"
+        android:focusable="true"
+        android:src="@drawable/mariohead" />
+
+</LinearLayout>
