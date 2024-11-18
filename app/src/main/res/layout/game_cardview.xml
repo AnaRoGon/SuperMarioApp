@@ -10,7 +10,7 @@
             type="com.example.rodriguezgonzalez.pmdm02.GameData" />
     </data>
 
-    <!-- CardView que encapsula todo el contenido de la vista -->
+    <!-- CardView que encapsula el contenido de la vista -->
     <androidx.cardview.widget.CardView
         android:id="@+id/gameCardView"
         android:layout_width="match_parent"
