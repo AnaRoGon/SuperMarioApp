@@ -1,11 +1,15 @@
 # Algunas capturas del proyecto 
 
-![00](https://github.com/user-attachments/assets/c258e28d-407b-41a7-a819-75f055494d20)
+## Pantalla principal de la aplicación con la lista de personajes disponibles
+![00](https://github.com/user-attachments/assets/1ec8b2f0-2857-413c-809b-7dfdaa9894d6)
+
+## Pantalla de detalles del personaje
+![04](https://github.com/user-attachments/assets/7561a895-7b29-42c1-a70e-90d91dc7323b)
+
+## Pantalla del menú lateral
+![01](https://github.com/user-attachments/assets/252fcd69-113e-4621-9867-252705f84dd5)
+
+## Pantalla de selección de idiomas 
+![03](https://github.com/user-attachments/assets/eba45100-a403-42aa-ae11-9f0d097c0a1c)
 
 
-![01](https://github.com/user-attachments/assets/45912322-991a-4eb1-af97-bbbc75668f19)
-
-
-![03](https://github.com/user-attachments/assets/c56f6207-26b5-4968-ab8f-f37d6403c236)
-
-![04](https://github.com/user-attachments/assets/b7b3cb3d-04ee-44ef-90d3-9f69c7859b6e)
