@@ -29,7 +29,7 @@ Para el desarrollo de esta aplicación se destaca:
 * **RecyclerView** para la implementación de las listas para los personajes.
 * **Cardview** para el diseño de los elementos de cada RecyclerView.
 * **SharedPreferences** para el soporte multiidioma.
-* **Snackbar y Toast** para avisor e información relevante sobre la aplicación al usuario. 
+* **Snackbar y Toast** para avisos e información relevante sobre la aplicación al usuario. 
 * **Navigation drawer** para el menú lateral.
 * **Xml** para el diseño de actividades, temas y estilos. 
   
