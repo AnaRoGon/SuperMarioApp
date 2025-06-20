@@ -1,4 +1,4 @@
-# Introducción
+# Aplicación de Super Mario
 Aplicación que contiene una lista de personajes de Super Mario. Al seleccionar cada personaje se nos abrirán los detalles del mismo.
 
 # Características principales
